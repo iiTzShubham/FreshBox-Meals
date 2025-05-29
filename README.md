@@ -5,7 +5,7 @@
 **FreshBox Meals** is a healthy meal prep and delivery service built using [Wix.com](https://www.wix.com/). It is designed to help busy professionals, students, and fitness enthusiasts access nutritious, pre-portioned meals with just a few clicks.
 
 ## 🌟 Live Site
-🔗 [Visit the Website](https://spatil7011.wixsite.com/freshbox-meals)
+🔗 [Freshmeals.com - Visit the Website](https://spatil7011.wixsite.com/freshbox-meals)
 
 ---
 
@@ -59,15 +59,7 @@ The site features a rotating gallery of meal boxes representing a wide range of 
 - Enable payment gateway
 - Blog section on health and nutrition
 
----
 
-## 🙋‍♂️ Author
-
-**Shubham Patil**  
-💼 MS in Data Analytics | Passion for Tech & Wellness  
-📫 [LinkedIn](https://www.linkedin.com/) | [Email](mailto:your@email.com)
-
----
 
 ## 📄 License
 
